@@ -1,0 +1,5 @@
+backend/
+├── uploads/          <-- Aquí se guardarán las imágenes físicas
+├── db.js
+├── uploadMiddleware.js
+└── server.js
